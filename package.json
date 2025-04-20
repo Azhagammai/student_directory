@@ -1,6 +1,10 @@
 {
   "homepage": "https://github.com/Azhagammai/student_directory.git",
+
   "name": "student-directory", 
+
+  "name": "student-directory",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
