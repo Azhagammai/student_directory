@@ -1,16 +1,12 @@
 {
   "homepage": "https://github.com/Azhagammai/student_directory.git",
-
-  "name": "student-directory", 
-
   "name": "student-directory",
-
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
-    "@testing-library/react": "^16.3.0", 
+    "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.8.4",
     "react": "^19.1.0",
@@ -34,7 +30,7 @@
   },
   "browserslist": {
     "production": [
-      ">0.2%", 
+      ">0.2%",
       "not dead",
       "not op_mini all"
     ],
