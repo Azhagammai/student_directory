@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
   
-  // Sample student data
+ 
   const students = [
     { id: 1, name: 'Priya', grade: 'A' },
     { id: 2, name: 'Karan', grade: 'B+' },
